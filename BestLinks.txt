@@ -1,0 +1,4 @@
+1.https://smolcss.dev/
+2.https://moderncss.dev/
+3.https://utopia.fyi/type/calculator
+4.https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/233002-introduction/1007804-intro-why-the-course-is-formatted-in-this-way
